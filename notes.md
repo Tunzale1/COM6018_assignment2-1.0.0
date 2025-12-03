@@ -66,4 +66,4 @@ Possible approaches:
 
 ### Target Goals:
 - **Speed:** Beat 79.2% (aim for 85%+)
-- **Tempo:** Beat 24.6% (aim for 70%+) - HUGE improvement possible!
+- **Tempo:** Beat 24.6% (aim for 50%+) - HUGE improvement possible!
