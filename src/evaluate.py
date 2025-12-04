@@ -82,8 +82,8 @@ def evaluate(
             cmap="Blues",
             display_labels=(
                 ["very slow", "slow", "normal", "fast", "very fast"]
-                if infer_transform_from_filename(data_file) == "speed"
-                else ["down", "up"]
+                # if infer_transform_from_filename(data_file) == "speed"
+                # else ["down", "up"]
             ),
         )
         disp.ax_.set_title("Confusion Matrix")
